@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Full-Stack Magento Developer | Cloud & DevOps Enthusiast</h3>
 
 <ul>
-    <li>🔭 I’m currently working at <a href="https://www.haartyhanks.com/">Haarty Hanks</a></li>
-    <li>🌱 I’m currently learning <strong>Docker, AWS, Kubernetes</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/satyam224152/">my LinkedIn</a></li>
-    <li>💬 Ask me about <strong>Magento, PHP, MySQL</strong></li>
-    <li>📫 How to reach me: <strong><a href="mailto:satyamkumarsaya@gmail.com">satyamkumarsaya@gmail.com</a></strong></li>
-    <li>📄 Experience: <strong>3.5 Years</strong></li>
+    <li>🔭 Currently working as a <strong>Magento Developer</strong> at <a href="https://www.haartyhanks.com/">Haarty Hanks</a></li>
+    <li>🌱 Expanding skills in <strong>Cloud & DevOps</strong> — learning <strong>Docker, AWS, Kubernetes</strong></li>
+    <li>👨‍💻 Check out my work and professional updates on <a href="https://www.linkedin.com/in/satyam224152/">LinkedIn</a></li>
+    <li>💬 Let’s talk about <strong>Magento 2, PHP, MySQL, REST APIs, and E-commerce Development</strong></li>
+    <li>📫 Reach me at: <a href="mailto:satyamkumarsaya@gmail.com">satyamkumarsaya@gmail.com</a></li>
+    <li>📄 Professional Experience: <strong>3.5+ Years in Web Development & E-commerce Solutions</strong></li>
 </ul>
 
 ---
