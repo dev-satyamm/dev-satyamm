@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pharmacy Planet, ODOP](http://pharmacyplanet.com/, https://odopup.in/)
+- 🔭 I’m currently working on <a href="http://pharmacyplanet.com/" >Pharmacy Planet</a> <a href="https://odopup.in" >ODOP</a><a href="http://pearlchemistgroup.co.uk/" >Pearl Chemist Group</a> <a href="https://online4pharmacy.com/" >Online4Pharmacy</a>
 
 - 🌱 I’m currently learning **Docker, AWS, Kubernate,**
 
