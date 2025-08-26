@@ -42,12 +42,3 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> |
 
 ---
-
-✅ **Now ALL Projects and ALL Tools are included**.  
-✅ Projects are in a **4-column grid with logos**.  
-✅ Tools are in a **5-column grid** for symmetry.  
-✅ Everything is **centered and responsive** on GitHub.  
-
----
-
-Would you also like me to add **badges** (like GitHub Stats, Top Languages, Profile Views) to make your README look like a portfolio?
