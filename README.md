@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **satyamkumarsaya@gmail.com**
 
-- 📄 Know about my experiences [3.5 Year](3.5 Year)
+- 📄 Know about my experiences 3.5 Year
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
