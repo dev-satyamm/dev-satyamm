@@ -6,7 +6,7 @@
     <li>🌱 Expanding skills in <strong>Cloud & DevOps</strong> — learning <strong>Docker, AWS, Kubernetes</strong></li>
     <li>👨‍💻 Check out my work and professional updates on <a href="https://www.linkedin.com/in/satyam224152/">LinkedIn</a></li>
     <li>💬 Let’s talk about <strong>Magento 2, PHP, MySQL, REST APIs, and E-commerce Development</strong></li>
-    <li>📫 Reach me at: <a href="mailto:satyamkumarsaya@gmail.com">satyamkumarsaya@gmail.com</a></li>
+    <li>📫 Reach me at: <a href="mailto:satyamkumarsaya@gmail.com">Email</a></li>
     <li>📄 Professional Experience: <strong>3.5+ Years in Web Development & E-commerce Solutions</strong></li>
 </ul>
 
@@ -40,8 +40,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> |
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" width="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> |
-<img src="https://alpinejs.dev/alpine_long.svg" width="40"/> |
-<img src="http://foundationcommerce.co.uk/wp-content/uploads/2025/03/Hyva-blue-800x450-1.png" width="40"/> |
+| <img src="https://alpinejs.dev/alpine_long.svg" width="40"/> | <img src="https://foundationcommerce.co.uk/wp-content/uploads/2025/03/Hyva-blue-800x450-1.png" width="40"/>  |
 
 
 ---
