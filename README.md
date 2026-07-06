@@ -7,7 +7,7 @@
     <li>👨‍💻 Check out my work and professional updates on <a href="https://www.linkedin.com/in/satyam224152/">LinkedIn</a></li>
     <li>💬 Let’s talk about <strong>Magento 2, PHP, MySQL, REST APIs, and E-commerce Development</strong></li>
     <li>📫 Reach me at: <a href="mailto:satyamkumarsaya@gmail.com">Email</a></li>
-    <li>📄 Professional Experience: <strong>3.5+ Years in Web Development & E-commerce Solutions</strong></li>
+    <li>📄 Professional Experience: <strong>4.5+ Years in Web Development & E-commerce Solutions</strong></li>
 </ul>
 
 ---
